@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "하이라이트1",
+      "thumbnailImageSrc": "/assets/img/temp.jpg",
+      "contents": [{
+        "id": 1,
+        "imageSrc": "/assets/img/temp.jpg",
+        "theme": "dark"
+      }]
+    },
+    {
+      "id": 2,
+      "name": "하이라이트2",
+      "thumbnailImageSrc": "/assets/img/temp.jpg",
+      "contents": [{
+        "id": 1,
+        "imageSrc": "/assets/img/temp.jpg",
+        "theme": "dark"
+      }]
+    },
+    {
+      "id": 3,
+      "name": "하이라이트3",
+      "thumbnailImageSrc": "/assets/img/temp.jpg",
+      "contents": [{
+        "id": 1,
+        "imageSrc": "/assets/img/temp.jpg",
+        "theme": "dark"
+      }]
+    }
+  ]
+}

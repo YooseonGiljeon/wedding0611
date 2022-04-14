@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": 999,
+      "contents": [
+        {
+          "imageSrc": "/assets/img/temp.jpg",
+          "action": {
+            "type": "normal",
+            "text": "단순 메세지 노출",
+            "color": "#7f1d1d"
+          }
+        },
+        {
+          "imageSrc": "/assets/img/temp.jpg",
+          "action": {
+            "type": "link",
+            "text": "링크 열기 기능 (결혼식장 안내)",
+            "color": "#d97706",
+            "href": "https://m.calendar.naver.com",
+            "mobileLink": "https://m.calendar.naver.com",
+            "pcLink": "https://calendar.naver.com"
+          }
+        },
+        {
+          "imageSrc": "/assets/img/temp.jpg",
+          "action": {
+            "type": "link",
+            "text": "링크 열기 기능",
+            "color": "#3B6045",
+            "href": "https://m.map.naver.com/",
+            "mobileLink": "https://m.map.naver.com/",
+            "pcLink": "https://map.naver.com/"
+          }
+        },
+        {
+          "imageSrc": "/assets/img/temp.jpg",
+          "action": {
+            "type": "bottom-sheet_toss",
+            "text": "바텀싯 열기 기능 (송금기능)",
+            "color": "#3182F6"
+          }
+        },
+        {
+          "imageSrc": "/assets/img/temp.jpg",
+          "action": {
+            "type": "bottom-sheet_account",
+            "text": "바텀싯 열기 기능 (계좌 목록)",
+            "color": "#6B31E7"
+          }
+        }
+      ],
+      "description": "저희 결혼해요! 20xx년 xx월 xx일 토요일 오전 xx시 xx분 서울특별시 강남구 청담동 xx로 xxx, xxxxx",
+      "createdAt": "2018-11-27"
+    },
+    {
+      "id": 4,
+      "contents": [
+        {
+          "imageSrc": "/assets/img/temp.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/temp.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/temp.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/temp.jpg"
+        }
+      ],
+      "description": "피드 설명",
+      "tags": ["태그1", "태그2"]
+    },
+    {
+      "id": 5,
+      "contents": [
+        {
+          "imageSrc": "/assets/img/temp.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/temp.jpg"
+        },
+        {
+          "imageSrc": "/assets/img/temp.jpg"
+        }
+      ],
+      "description": "피드 설명",
+      "tags": ["태그1", "태그2"]
+    }
+  ]
+}
